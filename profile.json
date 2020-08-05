@@ -1,15 +1,16 @@
 {
 	"basics": {
-		"name": "Kishore",
-		"label": "Architect",
+		"name": "Julian Schnabel",
+		"label": "Student",
 		"picture": "profile.jpg",
-		"email": "prakis@gmail.com",
+		"email": "jschnabel@posteo.de",
 		"phone": "(912) 98765-4321",
 		"website": "https://reactdude.com/",
 		"twitter": "https://twitter.com/prakis",
 		"facebook": "https://www.facebook.com/Stringify.me",
-		"github": "http://github.com/prakis",
-		"summary": "I work as a consultant, designing and developing web (<b>Java</b>, <b>ReactJS</b>, <b>NodeJS</b>) & desktop (<b>C#</b>, <b>JavaFX</b>) apps. I have over 16 years experience in software development and 2 years in Nanotechnology."
+		"github": "https://github.com/schnjulian",
+		"stack-overflow" : "https://stackoverflow.com/users/9323561/schnjulian",
+		"summary": "I am a Student (HS Senior) and pre-student at the University of Cologne. I mainly work with (<b>C++</b>, <b>C#</b> & <b>Java</b>)."
 	},
 	"theme": {
 		"url": "https://github.com/prakis/stringify.me-theme",
